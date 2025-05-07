@@ -1,0 +1,38 @@
+[
+    {
+        "name": "AutoDeploy POC DEV",
+        "fdeploy_id": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "autodeploy pbi-service-api admin",
+        "fdeploy_id": "10000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "autodeploy fabric-service-api admin",
+        "fdeploy_id": "20000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "AutoDeploy_Lakehouse.Lakehouse",
+        "fdeploy_id": "30000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Load_Demo_Data.Notebook",
+        "fdeploy_id": "40000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Process_Demo_Data.Notebook",
+        "fdeploy_id": "50000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Demo_Pipeline.DataPipeline",
+        "fdeploy_id": "60000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Demo_SM.SemanticModel",
+        "fdeploy_id": "70000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Demo_Report.Report",
+        "fdeploy_id": "80000000-0000-0000-0000-000000000000"
+    }
+]

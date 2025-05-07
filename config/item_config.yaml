@@ -1,0 +1,21 @@
+workspace: 
+  src: 'AutoDeploy POC DEV'
+  trg: 'AutoDeploy POC TEST'
+connections:
+  pbi_connection:
+    src: autodeploy pbi-service-api admin
+    trg: autodeploy pbi-service-api admin
+  fabric_connection: 
+    src: autodeploy fabric-service-api admin
+    trg: autodeploy fabric-service-api admin
+
+items:
+  - AutoDeploy_Lakehouse.Lakehouse
+  - Load_Demo_Data.Notebook
+  - Process_Demo_Data.Notebook
+  - Demo_Pipeline.DataPipeline
+  - Demo_SM.SemanticModel
+  - Demo_Report.Report
+
+autodeploy_lakehouse_semantic_models:
+  - Demo_SM.SemanticModel
