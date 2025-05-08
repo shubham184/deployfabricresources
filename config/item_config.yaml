@@ -11,7 +11,12 @@ connections:
 
 items:
   - Fabric_Deploy_Lakehouse.Lakehouse
+
   - 01_Transfer_Active_Items_Unit.Notebook
-  - Load_Fabric_Deploy_E2E.DataPipeline
+  - Load_Items_E2E.DataPipeline
+
+  - Item_SM.SemanticModel
+  - Item_Analyzer_Report.Report
 
 autodeploy_lakehouse_semantic_models:
+  - Item_SM.SemanticModel

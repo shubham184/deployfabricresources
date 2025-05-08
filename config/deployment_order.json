@@ -22,5 +22,13 @@
     {
         "name": "Load_Fabric_Deploy_E2E.DataPipeline",
         "fdeploy_id": "50000000-0000-0000-0000-000000000000"
+    },
+    {
+        "name": "Item_SM.SemanticModel",
+        "fdeploy_id": "896543f5-c24f-5e3e-89a7-b3bd3fcf498e"
+    },
+    {
+        "name": "Item_Analyzer_Report.Report",
+        "fdeploy_id": "84b6a5b7-4150-5a30-b2d3-07ffdca8f818"
     }
 ]
