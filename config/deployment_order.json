@@ -12,27 +12,15 @@
         "fdeploy_id": "20000000-0000-0000-0000-000000000000"
     },
     {
-        "name": "AutoDeploy_Lakehouse.Lakehouse",
+        "name": "Fabric_Deploy_LakeHouse.Lakehouse",
         "fdeploy_id": "30000000-0000-0000-0000-000000000000"
     },
     {
-        "name": "Load_Demo_Data.Notebook",
+        "name": "01_Transfer_Active_Items_Unit.Notebook",
         "fdeploy_id": "40000000-0000-0000-0000-000000000000"
     },
     {
-        "name": "Process_Demo_Data.Notebook",
+        "name": "Load_Fabric_Deploy_E2E.DataPipeline",
         "fdeploy_id": "50000000-0000-0000-0000-000000000000"
-    },
-    {
-        "name": "Demo_Pipeline.DataPipeline",
-        "fdeploy_id": "60000000-0000-0000-0000-000000000000"
-    },
-    {
-        "name": "Demo_SM.SemanticModel",
-        "fdeploy_id": "70000000-0000-0000-0000-000000000000"
-    },
-    {
-        "name": "Demo_Report.Report",
-        "fdeploy_id": "80000000-0000-0000-0000-000000000000"
     }
 ]

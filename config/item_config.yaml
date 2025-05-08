@@ -10,12 +10,6 @@ connections:
     trg: autodeploy fabric-service-api admin
 
 items:
-  - AutoDeploy_Lakehouse.Lakehouse
-  - Load_Demo_Data.Notebook
-  - Process_Demo_Data.Notebook
-  - Demo_Pipeline.DataPipeline
-  - Demo_SM.SemanticModel
-  - Demo_Report.Report
-
-autodeploy_lakehouse_semantic_models:
-  - Demo_SM.SemanticModel
+  - Fabric_Deploy_Lakehouse.Lakehouse
+  - 01_Transfer_Active_Items_Unit.Notebook
+  - Load_Fabric_Deploy_E2E.DataPipeline
