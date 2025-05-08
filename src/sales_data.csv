@@ -1,0 +1,7 @@
+Date,Region,Product,Category,Sales,Quantity
+2024-01-15,North,Widget A,Hardware,1250.99,5
+2024-01-22,East,Widget B,Hardware,2100.50,8
+2024-01-28,South,Service X,Software,3450.00,1
+2024-02-03,West,Widget C,Hardware,899.99,3
+2024-02-10,North,Service Y,Software,4500.00,2
+2024-02-17,East,Widget A,Hardware,1300.75,5
