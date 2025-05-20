@@ -1,6 +1,6 @@
 workspace: 
-  src: 'AutoDeploy POC DEV'
-  trg: 'AutoDeploy POC TEST'
+  src: 'CUS-DEV-SNAGAR'
+  trg: 'CUS-DEV-SNAGAR'
 connections:
   pbi_connection:
     src: autodeploy pbi-service-api admin
